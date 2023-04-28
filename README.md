@@ -14,7 +14,7 @@
 
 > 下载该库
 ```
-https://github.com/slobys/ai-prompt-generator.git
+git clone https://github.com/slobys/ai-prompt-generator.git
 ```
 
 > 安装依赖
